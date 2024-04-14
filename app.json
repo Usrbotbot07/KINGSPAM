@@ -88,7 +88,11 @@
             "description": "owner Id",
             "value": "6258877205",
             "required": true
-        }
+      },
+      "SUDO_USER": {
+          "description": "Sodo Id",
+          "value": "",
+          "required": true
     },
   "stack": "heroku-20",
   "buildpacks": [
